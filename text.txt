@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9440-4612
+
+ Directory of C:\Users\Manju\Desktop\New git sandhya
+
+10/22/2021  11:29 AM    <DIR>          .
+10/22/2021  11:29 AM    <DIR>          ..
+10/22/2021  11:29 AM               125 text.txt
+               1 File(s)            125 bytes
+               2 Dir(s)  505,135,734,784 bytes free
